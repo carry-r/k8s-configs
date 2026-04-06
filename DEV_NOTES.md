@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Reviewed security headers configuration
 - Investigated performance bottleneck, noted findings
+
+## 2026-04-06
+- Added .editorconfig for consistent formatting
+- Verified API endpoint response schema
+- Reviewed security headers configuration
